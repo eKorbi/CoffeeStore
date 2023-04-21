@@ -1,0 +1,7 @@
+Bill 
+billName=nescaffee
+ billDate=2022-02-09
+ price=6300.0
+ quantitySold=3
+
+

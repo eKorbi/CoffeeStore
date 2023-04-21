@@ -1,0 +1,7 @@
+
+
+                         Usernames         Passwords
+
+Log in as cashier:        cashier           cashier
+Log in as manager:        manager           manager
+Log in as admin:          admin             admin
